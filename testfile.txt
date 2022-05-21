@@ -4,3 +4,4 @@ c
 d
 e
 f6
+I am adding a new line to the file
