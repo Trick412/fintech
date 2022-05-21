@@ -1,7 +1,7 @@
-a
-b
-c
-d
-e
+ab
+bd
+ce
+df
+eg
 f6
 I am adding a new line to the file
